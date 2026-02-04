@@ -782,7 +782,8 @@ fi
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
-<img width="723" height="220" alt="image" src="https://github.com/user-attachments/assets/9dd67fea-7650-407c-ba00-e4d601c10ed4" />
+<img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/04578d15-a651-40f6-a001-3f818a90d211" />
+
 
 # using the case command
 cat >casecheck.sh 
@@ -917,6 +918,7 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
+<img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/bc6e7ca2-4a13-407c-951b-d04d32be70bf" />
 
 
 cat forctype.sh 
@@ -931,6 +933,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+<img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/469fab1b-8ced-4f7d-9fc4-f4a090d73125" />
 
 cat forctype1.sh 
 ```bash
@@ -944,6 +947,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/315ed1e5-4a95-4b8a-92b0-8c6ea985fb46" />
 
 cat fornested1.sh 
 ```bash
@@ -962,6 +966,7 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
+<img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/cb794258-b0a5-4700-b821-e5028f6fa6f8" />
 
  
 cat forbreak.sh 
@@ -979,6 +984,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/6e509607-be98-4247-a9b2-713313e965de" />
 
 $ chmod 755 forbreak.sh
  
@@ -1004,7 +1010,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+ <img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/3a581b70-af39-4268-a167-8604dd335919" />
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1018,6 +1025,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/4137b54c-45e4-4e3e-82d1-a42ac89b812b" />
 
 
  cat exread1.sh
@@ -1031,6 +1039,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
+<img width="467" height="226" alt="Screenshot 2026-02-04 084119" src="https://github.com/user-attachments/assets/90e1d811-2b4b-4648-a99c-93dfe5febac3" />
 
 
 $ ./exread1.sh 
@@ -1052,6 +1061,7 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
+<img width="586" height="49" alt="Screenshot 2026-02-04 085058" src="https://github.com/user-attachments/assets/26ed0511-c670-4040-b654-9bb50b3e7573" />
 
  
  ./funcex.sh 1 2
@@ -1099,7 +1109,8 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
+<img width="395" height="284" alt="Screenshot 2026-02-04 085035" src="https://github.com/user-attachments/assets/f803de58-23ca-48c1-a61b-8781662ce057" />
+
  
 cat > nc.awk
 ```bash
@@ -1130,7 +1141,9 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+<img width="360" height="178" alt="Screenshot 2026-02-04 084958" src="https://github.com/user-attachments/assets/b252faa5-5b79-474b-ab5f-7fb1e9f24269" />
+
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1157,6 +1170,7 @@ else
 fi
 ```
 ## OUTPUT 
+<img width="329" height="56" alt="Screenshot 2026-02-04 084917" src="https://github.com/user-attachments/assets/f9992dce-6a4f-44ae-8a98-2e1f7cbb23ba" />
 
 
 # RESULT:
